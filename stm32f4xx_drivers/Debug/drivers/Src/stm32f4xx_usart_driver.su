@@ -1,0 +1,6 @@
+stm32f4xx_usart_driver.c:10:6:USART_PeriClkControl	16	static
+stm32f4xx_usart_driver.c:53:6:USART_PeriControl	16	static
+stm32f4xx_usart_driver.c:80:6:USART_Init	24	static
+stm32f4xx_usart_driver.c:175:6:USART_DeInit	16	static
+stm32f4xx_usart_driver.c:209:6:USART_SendData	32	static
+stm32f4xx_usart_driver.c:271:6:USART_ReceiveData	32	static

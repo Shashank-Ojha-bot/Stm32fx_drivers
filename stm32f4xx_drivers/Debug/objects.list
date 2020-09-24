@@ -1,0 +1,6 @@
+"Src/002.o"
+"Startup/startup_stm32f407vgtx.o"
+"drivers/Src/stm32f4xx_gpio_driver.o"
+"drivers/Src/stm32f4xx_i2c_driver.o"
+"drivers/Src/stm32f4xx_spi_driver.o"
+"drivers/Src/stm32f4xx_usart_driver.o"
